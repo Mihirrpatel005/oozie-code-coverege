@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<coverage>
+	<file
+		path="C:\Users\e068526\offline-jobs-workflow\src\main\resources\oozie/workflows/shell-job-launcher.xml">
+		<lineToCover covered="false" lineNumber="1" />
+		<lineToCover covered="true" lineNumber="2" />
+		<lineToCover covered="false" lineNumber="3" />
+		<lineToCover covered="true" lineNumber="4" />
+		<lineToCover covered="true" lineNumber="5" />
+		<lineToCover covered="true" lineNumber="6" />
+		<lineToCover covered="true" lineNumber="7" />
+		<lineToCover covered="true" lineNumber="8" />
+		<lineToCover covered="true" lineNumber="9" />
+		<lineToCover covered="true" lineNumber="10" />
+		<lineToCover covered="true" lineNumber="11" />
+		<lineToCover covered="true" lineNumber="12" />
+		<lineToCover covered="true" lineNumber="13" />
+		<lineToCover covered="true" lineNumber="14" />
+		<lineToCover covered="true" lineNumber="15" />
+		<lineToCover covered="true" lineNumber="16" />
+		<lineToCover covered="true" lineNumber="17" />
+		<lineToCover covered="true" lineNumber="18" />
+		<lineToCover covered="true" lineNumber="19" />
+		<lineToCover covered="true" lineNumber="20" />
+		<lineToCover covered="true" lineNumber="21" />
+		<lineToCover covered="true" lineNumber="22" />
+		<lineToCover covered="true" lineNumber="23" />
+		<lineToCover covered="true" lineNumber="24" />
+		<lineToCover covered="true" lineNumber="25" />
+		<lineToCover covered="true" lineNumber="26" />
+		<lineToCover covered="true" lineNumber="27" />
+		<lineToCover covered="true" lineNumber="28" />
+		<lineToCover covered="false" lineNumber="29" />
+		<lineToCover covered="true" lineNumber="30" />
+		<lineToCover covered="false" lineNumber="31" />
+		<lineToCover covered="false" lineNumber="32" />
+		<lineToCover covered="false" lineNumber="33" />
+		<lineToCover covered="false" lineNumber="34" />
+		<lineToCover covered="false" lineNumber="35" />
+		<lineToCover covered="false" lineNumber="36" />
+		<lineToCover covered="false" lineNumber="37" />
+		<lineToCover covered="true" lineNumber="38" />
+	</file>
+</coverage>
